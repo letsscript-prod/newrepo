@@ -1,0 +1,12 @@
+{
+  "name": "newrepo",
+  "version": "1.0.0",
+  "description": "This file describes the various style and design conventions that are used in the Backstage main repository. While you may choose to use these conventions in your own Backstage projects, it is not required.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo why"
+  },
+  "author": "",
+  "license": "ISC"
+}
